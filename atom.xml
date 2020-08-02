@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tuesday</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-07-29T15:12:38.582Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>wowee</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>dplyr笔记</title>
+    <link href="http://yoursite.com/2020/07/29/dplyr%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yoursite.com/2020/07/29/dplyr%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-07-29T15:11:51.000Z</published>
+    <updated>2020-07-29T15:12:38.582Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="dplyr笔记"><a href="#dplyr笔记" class="headerlink" title="dplyr笔记"></a>dplyr笔记</h1><h2 id="管道操作"><a href="#管道操作" class="headerlink" title="管道操作"></a>管道操作</h2><p>示例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">library(dplyr)</span><br><span class="line">df %&gt;% pull()</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;dplyr笔记&quot;&gt;&lt;a href=&quot;#dplyr笔记&quot; class=&quot;headerlink&quot; title=&quot;dplyr笔记&quot;&gt;&lt;/a&gt;dplyr笔记&lt;/h1&gt;&lt;h2 id=&quot;管道操作&quot;&gt;&lt;a href=&quot;#管道操作&quot; class=&quot;headerlink&quot; titl
+      
+    
+    </summary>
+    
+    
+      <category term="R" scheme="http://yoursite.com/categories/R/"/>
+    
+    
+      <category term="dplyr" scheme="http://yoursite.com/tags/dplyr/"/>
+    
+      <category term="tidyverse" scheme="http://yoursite.com/tags/tidyverse/"/>
+    
+  </entry>
+  
+</feed>
